@@ -1,0 +1,23 @@
+{
+    "timestamp": 1492522958.3085938,
+    "request": "/api/v1/data/?record=122445",
+    "start": 382085877327,
+    "user": 11136,
+    "decoder_version": "0.5.3",
+    "start_date": "2017-04-18T13:42:38.308594",
+    "algo": {
+        "record_id": 122445,
+        "created": "2016-07-06T21:28:06.889481",
+        "algorithms": {
+            "ecg": "2.1.0",
+            "acceleration": "2.1.0",
+            "sleep_phase": "2.1.0",
+            "sleep_position": "2.1.0",
+            "respiration": "2.1.0",
+            "hrv": "2.1.0",
+            "activity_detection": "2.1.0"
+        },
+        "id": 3,
+        "resource_uri": "/api/algo/3/"
+    }
+}
